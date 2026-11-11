@@ -8,7 +8,6 @@ The system aims to understand student queries and retrieve relevant information 
 
 Instead of manually searching through multiple PDF documents, students will be able to ask questions in natural language and receive relevant, context-aware answers with supporting document references.
 
-**Project Status:** 🚧 Under Development
 
 ---
 
@@ -273,22 +272,22 @@ The evaluation process will help identify weaknesses in retrieval quality and an
 
 ## 🗺️ 10. Development Roadmap
 
-- [ ] Project planning and requirements analysis
-- [ ] NLP fundamentals and methodology
-- [ ] PDF document ingestion
-- [ ] Text extraction and preprocessing
-- [ ] Intelligent text chunking
-- [ ] Embedding generation
-- [ ] Vector database integration
-- [ ] Semantic search implementation
+- [X] Project planning and requirements analysis
+- [X] NLP fundamentals and methodology
+- [X] PDF document ingestion
+- [X] Text extraction and preprocessing
+- [X] Intelligent text chunking
+- [X] Embedding generation
+- [X] Vector database integration
+- [X] Semantic search implementation
 - [x] RAG pipeline development
-- [ ] LLM integration
-- [ ] FastAPI backend development
-- [ ] Streamlit frontend development
-- [ ] Source citation implementation
-- [ ] Testing and evaluation
-- [ ] Performance optimization
-- [ ] Final documentation and deployment
+- [X] LLM integration
+- [X] FastAPI backend development
+- [X] Streamlit frontend development
+- [X] Source citation implementation
+- [X] Testing and evaluation
+- [X] Performance optimization
+- [X] Final documentation and deployment
 
 ## 🔮 11. Future Enhancements
 
@@ -307,15 +306,16 @@ Potential future improvements include:
 **Project:** Domain-Specific NLP Assistant (Project 20)
 
 Contributors and individual responsibilities will be documented as the project progresses.
+- **Aaditya Saini** – Backend
+- **Anirudh** – Frontend
 
 ## 📄 13. License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-\<p align="center">
-&#x20; \<b>CampusGuide – Making Academic Information Accessible Through NLP.\</b>
-&#x20; \<br/>
-&#x20; Built with Python, Natural Language Processing and AI.
-\</p>
+<p align="center">
+  <b>CampusGuide – Making Academic Information Accessible Through NLP.</b>
+  <br/>
+  Built with Python, Natural Language Processing and AI.
+</p>
